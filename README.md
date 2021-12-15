@@ -1,5 +1,5 @@
 
-# Prediction of Predictors affecting Bike Sharing Demand
+# Bike Sharing Demand
 > Find out the import predictor variables affecting the Bike sharing demand (Using Linear Regression).
 
 ## Problem Statetment

@@ -1,52 +1,28 @@
-# Project Name
-> Outline a brief description of your project.
 
+# Prediction of Predictors affecting Bike Sharing Demand
+> Find out the import predictor variables affecting the Bike sharing demand (Using Linear Regression).
 
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
+## Problem Statetment
+A US bike-sharing provider BoomBikes has recently suffered considerable dips in their revenues. They have contracted a consulting company to understand the factors on which the demand for these shared bikes depends. Specifically, they want to understand the factors affecting the demand for these shared bikes in the American market. The company wants to know:
 
-<!-- You can include any other section that is pertinent to your problem -->
+* Which variables are significant in predicting the demand for shared bikes.
 
-## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+* How well those variables describe the bike demands
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
-## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+### Steps for Model Building
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+1. Reading, Understanding  and Visualising data
 
+2. Data Preparation For Model
 
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+3. Building and Training the model
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+4. Residual Analysis
 
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+5. Building the Model
 
+7. Prediction and Evaluation on test sets
 
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+8. Final Report
